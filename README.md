@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, seja bem-vindo(a) ao meu perfil!
 
-<!--
-**antunes18/antunes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos, sou estudante do Bacharelado em Ciência da Computação no Instituto Federal de Goiás (IFG).
 
-Here are some ideas to get you started:
+Sou estudante de Desenvolvimento Web com foco no back-end, tenho conhecimento em HTML5, CSS3, JavaScript, PHP e MySQL. No momento presente, desenvolvendo projetos pessoais com PHP + MySQL para aplicar na prática o que estou estudando, hands on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: Tecnologias
+
+- Front-end: HTML, CSS, JS, Bootstrap
+- Back-end: PHP
+- Database: MySQL
+
+## :link: Redes Sociais
+
+- Linkedin: [antunes18](https://www.linkedin.com/in/antunes18/)
+- Instagram: [yusuke.2003](https://www.instagram.com/yusuke.2003/)
