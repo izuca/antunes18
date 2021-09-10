@@ -2,7 +2,7 @@
 
 Tenho 20 anos, sou estudante do Bacharelado em Ciência da Computação no Instituto Federal de Goiás (IFG).
 
-Estudo Ciência de Dados com foco em Inteligência Artificial, Python e Probabilidade e Estatística.
+Amo programar e resolver problemas, atualmente tenho interesse em explorar diversas áreas de atuação como desenvolvimento, ciência de dados e inteligência artifial.
 
 ## :computer: Tecnologias
 
