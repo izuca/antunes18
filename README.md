@@ -1,12 +1,12 @@
 # Olá, seja bem-vindo(a) ao meu perfil! 👋
 
-Tenho 20 anos, sou estudante do Bacharelado em Ciência da Computação no Instituto Federal de Goiás (IFG).
+Tenho 21 anos, sou estudante do Bacharelado em Ciência da Computação no Instituto Federal de Goiás (IFG).
 
-Amo programar e resolver problemas, atualmente tenho interesse em explorar diversas áreas de atuação como desenvolvimento, ciência de dados e inteligência artifial.
+Amo programar e resolver problemas, atualmente tenho interesse em explorar diversas áreas de atuação como desenvolvimento, focando no Front-End.
 
 ## :computer: Tecnologias
 
-- Linguagens de Programação: Python, C, C++
+- Linguagens de Programação: HTML, CSS, Java, Javascript, C
 - Design: Figma, Photoshop, Illustrator, Premiere
 
 ## :link: Redes Sociais
