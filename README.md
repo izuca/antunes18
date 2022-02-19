@@ -6,7 +6,7 @@ Amo programar e resolver problemas, atualmente tenho interesse em explorar diver
 
 ## :computer: Tecnologias
 
-- Linguagens de Programação: HTML, CSS, Java, Javascript, C
+- Linguagens: HTML, CSS, Java, Javascript, C
 - Design: Figma, Photoshop, Illustrator, Premiere
 
 ## :link: Redes Sociais
