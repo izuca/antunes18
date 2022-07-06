@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/izuca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izuca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izuca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izuca&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izuca&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Adriel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
